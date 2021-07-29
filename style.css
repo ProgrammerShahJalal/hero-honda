@@ -33,3 +33,19 @@ hr.honda-line{
     margin: 0 auto;
     opacity: 100%;
 }
+
+/* happy clients style */
+.honda-card{
+    width: 322px;
+    height: 478.01px;
+    background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-top: 1.25rem;
+}
+.user{
+    width: 149px;
+    height: 149px;
+    margin: 0 auto;
+}

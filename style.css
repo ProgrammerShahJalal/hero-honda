@@ -5,6 +5,8 @@ body{
     margin: 0;
 }
 /* custom css styleheet */
+
+/* header section style */
 header{
     background-color: #264653;
 }
@@ -13,4 +15,21 @@ header{
     background-color: #E76F51;
     font-size: 1rem;
     padding: 10px 46px;
+}
+
+/* fetured section style */
+#honda-gray{
+    filter: grayscale(100%);
+}
+.honda-color{
+    color: 
+    #E76F51;
+}
+hr.honda-line{
+    width: 58.5px;
+    height: 0px;
+    border: 1px solid #E76F51;
+    border-radius: 1px;
+    margin: 0 auto;
+    opacity: 100%;
 }
